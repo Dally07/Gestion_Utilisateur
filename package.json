@@ -1,0 +1,23 @@
+{
+  "name": "gestion_utilisateur",
+  "version": "1.0.0",
+  "description": "Api pour la gestion des utilisateurs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dally07/Gestion_Utilisateur.git"
+  },
+  "author": "Dalida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dally07/Gestion_Utilisateur/issues"
+  },
+  "homepage": "https://github.com/Dally07/Gestion_Utilisateur#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
